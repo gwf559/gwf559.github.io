@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: 文锋的博客
+description: 一如既往.
+show_downloads: true
+google_analytics:
